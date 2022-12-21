@@ -12,7 +12,8 @@ def print_hi(name):
 
 
 env=environment()
-print_hi('env')
+
+print_hi('en')
 
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
