@@ -15,4 +15,4 @@ import main
 
 def test_main_entry():
     value=main.environment()
-    assert  value is 'dev'
+    assert  value == 'dev'
